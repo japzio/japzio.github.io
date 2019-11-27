@@ -1,6 +1,4 @@
-## Welcome to My Github Homepage
-
-Jasper Culong :philippines:
+## Jasper Culong
 
 ### Contact
 
