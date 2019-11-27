@@ -1,13 +1,14 @@
 ## Welcome to My Github Homepage
 
-@japzio
+Jasper Culong
 
 ### Contact
 
-[Email](mailto:jculongit10@gmail.com) [Twitter](https://twitter.com/japzio) [LinkedIn](https://ph.linkedin.com/in/japzio)
+* [Gmail](mailto:jculongit10@gmail.com)
+* [Twitter](https://twitter.com/japzio)
+* [LinkedIn](https://ph.linkedin.com/in/japzio)
 
 ### Credits
 
-[Github Pages](https://pages.github.com/)
-* For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[Jekyll](https://jekyllrb.com/)
+* [Github Pages](https://pages.github.com/). For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [Jekyll](https://jekyllrb.com/)
